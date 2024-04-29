@@ -7,7 +7,7 @@ npm run dev
 ```
 
 For backend:
-inside te backend folder run:
+inside the backend folder run:
 ```bash
 node server.js
 ```
